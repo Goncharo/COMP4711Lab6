@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Dream Order will have a burger for Dima, and takeout
+-->
+
+<!DOCTYPE order SYSTEM 'bonanza.dtd'>
+
+<order type="takeout">
+    <customer>Dima</customer>
+    <burger>
+        <patty type="beef"/>
+        <cheeses top="american" bottom="swiss"/>
+        <topping type="lettuce"/>
+        <topping type="tomato"/>
+        <topping type="peanutbutter"/>
+        <sauce type="ketchup"/>
+        <sauce type="mustard"/>
+    </burger>
+</order>

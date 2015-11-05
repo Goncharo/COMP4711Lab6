@@ -2,21 +2,8 @@
 Lab 6 Starter Project - XML Constraints
 ######################################
 
-This is the starter project for Comp4711 Tutorial XML01.
-
-**************
-Intended Usage
-**************
-
-Fork this project.
-Clone it locally.
-Enhance it per tutorial xml01.
-
-*****
-Setup
-*****
-
-n/a
+Dima Goncharov
+A00885037
 
 *****
 F.A.Q
